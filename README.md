@@ -12,7 +12,6 @@ I have hands-on experience working with:
 I enjoy turning raw data into meaningful insights that support better decision-making.  
 I've completed several academic and self-driven projects related to **data analysis** and **web development**, all available here on my GitHub.
 
-Currently, I'm seeking **internship or entry-level opportunities** to apply my skills in a real-world setting and grow as a professional data analyst.
 
 
 
