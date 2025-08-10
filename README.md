@@ -9,6 +9,10 @@ I have hands-on experience working with:
 - 🗃️ **SQL/MySQL** for querying and managing databases  
 - 🌐 Web technologies like **PHP**, **HTML/CSS**, **JavaScript**
 
+### 📌 Projects
+
+🔹 [ Ornamental Plant Order Management System ] (https://github.com/MGHirushiThilakna/Ornamental-Plant-Order-Management-System)
+
 I enjoy turning raw data into meaningful insights that support better decision-making.  
 I've completed several academic and self-driven projects related to **data analysis** and **web development**, all available here on my GitHub.
 
