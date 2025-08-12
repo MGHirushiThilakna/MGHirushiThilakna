@@ -11,7 +11,10 @@ I have hands-on experience working with:
 
 ### 📌 Projects
 
-🔹 [ Ornamental Plant Order Management System ] ( https://github.com/MGHirushiThilakna/Ornamental-Plant-Order-Management-System )
+🔹 [ Sales Analytics Dashboard-Power-BI] https://github.com/MGHirushiThilakna/Sales-Analytics-Dashboard-Power-BI-/tree/main()
+
+🔹 [ Ornamental Plant Order Management System ] (https://github.com/MGHirushiThilakna/Ornamental-Plant-Order-Management-System )
+
 🔹 [ Clothing Management and Ordering System ] ( https://github.com/MGHirushiThilakna/Clothing-Management-and-Ordering-System )
 
 I enjoy turning raw data into meaningful insights that support better decision-making.  
