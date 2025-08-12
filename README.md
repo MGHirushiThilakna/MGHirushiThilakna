@@ -15,7 +15,7 @@ I have hands-on experience working with:
 
 🔹 [ Ornamental Plant Order Management System ]- https://github.com/MGHirushiThilakna/Ornamental-Plant-Order-Management-System
 
-🔹 [ Hotel Reservation Data Dashboard ]- 
+🔹 [ Hotel Reservation Data Dashboard ]- https://github.com/MGHirushiThilakna/Hotel-Reservation-Data-Dashboard
 
 🔹 [ Clothing Management and Ordering System ]- https://github.com/MGHirushiThilakna/Clothing-Management-and-Ordering-System 
 
