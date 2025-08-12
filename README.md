@@ -17,6 +17,8 @@ I have hands-on experience working with:
 
 🔹 [ Data Professional Survey Breakdown]- https://github.com/MGHirushiThilakna/Data-Professional-Survey-Breakdown
 
+🔹 [HR-dashboard]- https://github.com/MGHirushiThilakna/HR-dashboard
+
 🔹 [ Ornamental Plant Order Management System ]- https://github.com/MGHirushiThilakna/Ornamental-Plant-Order-Management-System
 
 🔹 [ Clothing Management and Ordering System ]- https://github.com/MGHirushiThilakna/Clothing-Management-and-Ordering-System 
